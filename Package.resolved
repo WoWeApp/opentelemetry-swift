@@ -68,7 +68,7 @@
         "package": "swift-nio",
         "repositoryURL": "https://github.com/WoWeApp/swift-nio.git",
         "state": {
-          "branch": "change-dependency-version",
+          "branch": null,
           "revision": "5ef46d75b1a9a767f86852540703a8cadc1e60a9",
           "version": "1.0.1"
         }
