@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "grpc-swift",
-        "repositoryURL": "https://github.com/grpc/grpc-swift.git",
+        "repositoryURL": "https://github.com/WoWeApp/grpc-swift",
         "state": {
           "branch": null,
-          "revision": "87cecdeb2aae6b359b754d0dc7099e8237cf1824",
-          "version": "1.11.0"
+          "revision": "772a8bf92e256404e8db79736537ebace5b810f0",
+          "version": "1.0.1"
         }
       },
       {
